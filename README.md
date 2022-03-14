@@ -7,7 +7,7 @@
 - 🐇 유상준 - 전자전기학
 
 ## 스터디 진행 방식
-1. REVIEW(팀원 전부)
+1. Review(팀원 전부)
 2. Interesting
 3. Question
 4. Share
