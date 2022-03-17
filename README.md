@@ -8,9 +8,9 @@
 
 ## 스터디 진행 방식
 1. Review(팀원 전부)
-2. Share Interesting Part of Lecture
+2. Sharing Interesting Part of Lecture
 3. Question
-4. Share Documentation
+4. Sharing Documentation
 
 
 ## 스터디 일정
